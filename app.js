@@ -1,4 +1,4 @@
-const search = document.querySelector("#barraRicerca");
+const search = document.querySelector("#searchTerm");
 const button = document.querySelector("#link");
 
 search.oninput = () => {
