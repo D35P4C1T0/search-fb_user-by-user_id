@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.center {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
